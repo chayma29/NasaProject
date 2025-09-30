@@ -1,0 +1,4 @@
+[core]
+    remote = localremote
+['remote "localremote"']
+    url = C:/Users/chaym/Desktop/dvc_storage
