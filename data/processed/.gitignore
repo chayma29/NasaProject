@@ -1,2 +1,5 @@
 /Kepler_filtered.csv
 /TESS_filtered.csv
+/kepler_cleaned.csv
+/Kepler_no_extreme.csv
+/Kepler_winsorized.csv
